@@ -379,7 +379,6 @@ spec:
           }
         },
         {
-          "name":"macchange",
           "type":"tuning"
         }]
 
